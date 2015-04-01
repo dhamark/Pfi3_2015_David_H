@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Assignment_1</string>
-
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="quotes">
+    <string name="quote_1">You either die a hero or you live long enough to see yourself become the villain</string>
+    <string name="quote_2">I'm Batman</string>
+    <string name="quote_3">This is Sparta</string>
+    </string-array>
 </resources>
