@@ -1,10 +1,13 @@
 <resources>
     <string name="app_name">Assignment_1</string>
-    <string name="action_settings">Settings</string>
+    <string name="tryck">Press for quote</string>
+    <string name="knapp">Press me</string>
+    <string name="here">Quote will show here</string>
+    <string name="action_settings" translatable="false">Settings</string>
 
-    <string-array name="quotes">
-    <string name="quote_1">You either die a hero or you live long enough to see yourself become the villain</string>
-    <string name="quote_2">I'm Batman</string>
-    <string name="quote_3">This is Sparta</string>
+    <string-array name="quotes">quotes
+    <item name="quote_1">You either die a hero or you live long enough to see yourself become the villain - Unknown</item>
+    <item name="quote_2">I\'m Batman - Batman </item>
+    <item name="quote_3">This is Sparta - Leonidas</item>
     </string-array>
 </resources>

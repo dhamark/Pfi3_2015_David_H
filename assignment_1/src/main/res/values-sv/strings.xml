@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uppgift_1</string>
+    <string name="tryck">Tryck för citat</string>
+    <string name="knapp">Tryck på mig</string>
+    <string name="here">Citat visas här</string>
+
+    <string-array name="quotes">quotes
+        <item name="quote_1">Antingen dör som en hjälte eller så lever du länge nog för att se dig själv bli en skurk - Okänd</item>
+        <item name="quote_2">Jag är Batman - Batman </item>
+        <item name="quote_3">Detta är Sparta! - Leonidas</item>
+    </string-array>
+</resources>
