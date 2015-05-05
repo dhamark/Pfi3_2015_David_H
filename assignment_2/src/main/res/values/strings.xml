@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Skånetrafiken</string>
+    <string name="rese">Reseplanerare</string>
+    <string name="time">Tidtabeller</string>
+    <string name="station">Hållplatssök</string>
+    <string name="tickets">Biljetter</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    /*Kör fragment två här under*/
+
+   <string name="från">Från</string>
+    <string name="till">Till</string>
+    <string name="favoriter">Favoriter</string>
+    <string name="tidDatum">Tid/Datum</string>
+    <string name="justnu">Just Nu</string>
+    <string name="ändra">Ändra</string>
+    <string name="ankomst">Ankomst</string>
+    <string name="avgång">Avgång</string>
+    <string name="trafikslag">Trafikslag</string>
+    <string name="ändra2">Ändra</string>
+    <string name="bevakningar">Bevakningar</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
