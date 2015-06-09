@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/Destination"
+        android:id="@+id/Destination"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="4dp" />
+
+    <TextView
+        android:layout_width="335dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/tid_avgang"
+        android:id="@+id/tid_avgang"
+        android:layout_marginLeft="4dp"
+        android:layout_weight="0.05" />
+
+    <ImageView
+        android:layout_width="59dp"
+        android:layout_height="56dp"
+        android:text="symbol"
+        android:id="@+id/symbol"
+        android:src="@drawable/warning"
+        android:layout_marginLeft="4dp"
+        android:visibility="visible"
+        android:layout_gravity="right" />
+
+</LinearLayout>
