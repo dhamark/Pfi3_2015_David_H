@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff000000"
+    android:baselineAligned="false"
+    android:id="@+id/planetView"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="137dp"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/tv_planet_title"
+        android:layout_weight="0.18"
+        android:clickable="false"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="241dp"
+        android:layout_height="40dp"
+        android:id="@+id/iv_planet"
+        android:layout_weight="0.47"
+        android:layout_gravity="right" />
+
+    <TextView
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/tv_planet_data"
+        android:layout_weight="0.42"
+        android:textColor="#ffffff" />
+
+    <ScrollView
+        android:layout_width="390dp"
+        android:layout_height="292dp"
+        android:id="@+id/scrollView" >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/tv_planet_description"
+            android:textColor="#ffffff"
+            android:textIsSelectable="true" />
+    </ScrollView>
+
+
+</LinearLayout>

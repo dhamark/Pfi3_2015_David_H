@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="planet_names_array">
+        <item>@string/earth</item>
+        <item>@string/mars</item>
+        <item>@string/venus</item>
+        <item>@string/uranus</item>
+        <item>@string/saturn</item>
+        <item>@string/jupiter</item>
+        <item>@string/neptune</item>
+        <item>@string/mercury</item>
+    </string-array>
+
+    <string-array name="planet_data_array">
+
+        <item
+     >@string/mercury_data</item>
+        <item
+            >@string/venus_data</item>
+        <item
+            >@string/earth_data</item>
+        <item
+            >@string/mars_data</item>
+        <item
+            >@string/jupiter_data</item>
+        <item
+            >@string/saturn_data</item>
+        <item
+            >@string/uranus_data</item>
+        <item
+            >@string/neptune_data</item>
+    </string-array>
+
+
+   <string-array name="planet_description_array">
+       <item
+           >@string/mercury_description</item>
+        <item
+            >@string/venus_description</item>
+        <item
+            >@string/earth_description</item>
+        <item
+            >@string/mars_description</item>
+        <item
+            >@string/jupiter_description</item>
+        <item
+            >@string/saturn_description</item>
+        <item
+            >@string/uranus_description</item>
+        <item
+            >@string/neptune_description</item>
+
+   </string-array>
+
+</resources>

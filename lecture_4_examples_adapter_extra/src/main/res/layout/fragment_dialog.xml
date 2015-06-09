@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="se.mah.k3.lecture_4_examples_adapter_extra.FragmentDialog"
+    android:background="#000000"
+    android:id="@+id/dialog">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/dialog_title"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignBottom="@+id/dialog_title"
+        android:layout_alignEnd="@+id/dialog_title"
+        android:layout_marginBottom="36dp" />
+</RelativeLayout>
